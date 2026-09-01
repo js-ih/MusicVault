@@ -2,3 +2,4 @@
 
 ## Team Members
 - Anjelo Go
+- Frank Rangel
